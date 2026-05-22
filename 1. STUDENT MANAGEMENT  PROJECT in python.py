@@ -56,11 +56,11 @@ while True:
         exit()
     else:
         print("worng input")
-    # g=(input("continue y/n="))
-    # print("______________________________________________")
+     g=(input("continue y/n="))
+     print("______________________________________________")
 
-    # if (g=="y" or g=="Y"):
-    #     continue
-    # elif(g=="n" or g=="N"):
-    #     break
+     if (g=="y" or g=="Y"):
+         continue
+     elif(g=="n" or g=="N"):
+         break
 
